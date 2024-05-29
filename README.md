@@ -7,4 +7,6 @@ You can also delete images and update the list of deleted images and 'urls' that
 
 This is a modified library from https://github.com/gurugaurav/bing_image_downloader
 
-Do a pip install bing_image_downloader 
+git clone https://github.com/gauravgoyal87/PI_image_downloader
+cd bing_image_downloader
+pip install .
